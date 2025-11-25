@@ -57,7 +57,7 @@ Below are the concepts this repository covers — from **basic to core**:
 
 ---
 
-# 📂✨ Folder Structure (Highly Animated + Visual)
+# 📂✨ C Folder 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=15F5BA&size=24&center=true&vCenter=true&width=650&lines=Explore+the+World+of+C+Programming!;Structured+Folders+for+Effortless+Learning;Navigate+Like+a+Pro+🚀;">
