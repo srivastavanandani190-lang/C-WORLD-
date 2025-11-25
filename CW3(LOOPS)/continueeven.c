@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main(){
+for (int i=0;i<=100;i++){
+   /* if (i%2!=0){
+        printf("%d ",i);
+    }*/
+   if (i%2!=0){
+    continue ;//skip karo es round ko and print the rest invalid condition of output
+   }
+   printf("%d ",i);
+}
+    return 0;
+}
