@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=28&center=true&vCenter=true&width=750&lines=Welcome+to+C+WORLD!;Master+the+Core+of+C+Programming!;Build+Logic+💡+Think+Better!;Level+Up+Your+Coding+Skills+🚀;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=15F5BA&size=28&center=true&vCenter=true&width=750&lines=Welcome+to+C+WORLD!;Master+the+Core+of+C+Programming!;Build+Logic+💡+Think+Better!;Level+Up+Your+Coding+Skills+🚀;">
 </p>
 
 ---
