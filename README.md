@@ -27,25 +27,25 @@ Perfect for:
 ### 🚀 C Programming Journey
 
 **Basics & Syntax**
-![Basics](https://progress-bar.dev/100/?title=Completed&color=00F5FF)
+![Basics](https://img.shields.io/badge/Basics-100%25-brightgreen?style=for-the-badge)
 
 **Control Statements**
-![Control](https://progress-bar.dev/100/?title=Completed&color=00E5FF)
+![Control](https://img.shields.io/badge/Control%20Statements-100%25-brightgreen?style=for-the-badge)
 
-**Loops & Pattern Programs**
-![Loops](https://progress-bar.dev/100/?title=Completed&color=00D4FF)
+**Loops & Patterns**
+![Loops](https://img.shields.io/badge/Loops%20%26%20Patterns-100%25-brightgreen?style=for-the-badge)
 
 **Functions**
-![Functions](https://progress-bar.dev/90/?title=Almost%20There&color=00BFFF)
+![Functions](https://img.shields.io/badge/Functions-90%25-blue?style=for-the-badge)
 
 **Arrays & Strings**
-![Arrays](https://progress-bar.dev/85/?title=Strong&color=0099FF)
+![Arrays](https://img.shields.io/badge/Arrays%20%26%20Strings-85%25-blue?style=for-the-badge)
 
 **Pointers**
-![Pointers](https://progress-bar.dev/60/?title=Learning&color=0077FF)
+![Pointers](https://img.shields.io/badge/Pointers-60%25-yellow?style=for-the-badge)
 
 **Structures & Unions**
-![Structures](https://progress-bar.dev/40/?title=Upcoming&color=005CFF)
+![Structures](https://img.shields.io/badge/Structures-40%25-orange?style=for-the-badge)
 
 **File Handling**
-![Files](https://progress-bar.dev/25/?title=Pending&color=003CFF)
+![Files](https://img.shields.io/badge/File%20Handling-25%25-red?style=for-the-badge)
