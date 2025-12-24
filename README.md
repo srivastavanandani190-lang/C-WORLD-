@@ -22,28 +22,30 @@ Perfect for:
 
 ---
 
-## 🧠 Learning Roadmap 🛣️
+## 🔥 Learning Progress
 
-```txt
-START
-  ↓
-Basics of C
-  ↓
-Data Types & Operators
-  ↓
-Conditional Statements
-  ↓
-Loops & Pattern Programs
-  ↓
-Functions & Modular Programming
-  ↓
-Arrays & Strings
-  ↓
-Pointers (Core of C 🔥)
-  ↓
-Structures & Unions
-  ↓
-File Handling
-  ↓
-Problem Solving & Practice
-END 🚀
+### 🚀 C Programming Journey
+
+**Basics & Syntax**
+![Basics](https://progress-bar.dev/100/?title=Completed&color=00F5FF)
+
+**Control Statements**
+![Control](https://progress-bar.dev/100/?title=Completed&color=00E5FF)
+
+**Loops & Pattern Programs**
+![Loops](https://progress-bar.dev/100/?title=Completed&color=00D4FF)
+
+**Functions**
+![Functions](https://progress-bar.dev/90/?title=Almost%20There&color=00BFFF)
+
+**Arrays & Strings**
+![Arrays](https://progress-bar.dev/85/?title=Strong&color=0099FF)
+
+**Pointers**
+![Pointers](https://progress-bar.dev/60/?title=Learning&color=0077FF)
+
+**Structures & Unions**
+![Structures](https://progress-bar.dev/40/?title=Upcoming&color=005CFF)
+
+**File Handling**
+![Files](https://progress-bar.dev/25/?title=Pending&color=003CFF)
